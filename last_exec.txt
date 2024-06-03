@@ -1,0 +1,4 @@
+Archivo CIERRE_IVR_EMPGEN_PYM_GOB_23042024_0615AM.csv 
+Archivo con 79920 datos 
+Datos cargados en la tabla 79920 
+Last load date 2024-04-23 06:15 
